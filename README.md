@@ -1,1 +1,1 @@
-# redis-module
+# elasticache-module
